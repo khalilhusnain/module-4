@@ -1,0 +1,11 @@
+/* blog.css */
+.post {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #fff;
+    color: black;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(185, 184, 184, 0.1);
+}
+
+/* Add specific blog styles here */
